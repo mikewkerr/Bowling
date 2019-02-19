@@ -1,0 +1,10 @@
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\bin\Debug\Bowling.exe.config
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\bin\Debug\Bowling.exe
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\obj\Debug\Bowling.csprojAssemblyReference.cache
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\obj\Debug\Bowling.Bowling.resources
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\obj\Debug\Bowling.Properties.Resources.resources
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\obj\Debug\Bowling.csproj.GenerateResource.cache
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\obj\Debug\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\obj\Debug\Bowling.exe
+C:\Users\i52066\Documents\Visual Studio 2017\Projects\Bowling\Bowling\obj\Debug\Bowling.pdb
